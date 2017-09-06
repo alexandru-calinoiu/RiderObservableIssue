@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.0.0
+MinimumVisualStudioVersion = 10.0.0.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObservableIssue", "ObservableIssue/ObservableIssue.csproj", "{14548FCD-66EA-408E-981C-30DF3099FC2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObservableIssue.Tests", "ObservableIssue.Tests\ObservableIssue.Tests.csproj", "{CD283BF7-FF19-4CF9-8487-EAE012FC114F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14548FCD-66EA-408E-981C-30DF3099FC2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14548FCD-66EA-408E-981C-30DF3099FC2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14548FCD-66EA-408E-981C-30DF3099FC2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14548FCD-66EA-408E-981C-30DF3099FC2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD283BF7-FF19-4CF9-8487-EAE012FC114F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD283BF7-FF19-4CF9-8487-EAE012FC114F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD283BF7-FF19-4CF9-8487-EAE012FC114F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD283BF7-FF19-4CF9-8487-EAE012FC114F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

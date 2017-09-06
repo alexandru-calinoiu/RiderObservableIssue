@@ -1,0 +1,63 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/calin/Playground/ObservableIssue/ObservableIssue/ObservableIssue.csproj",
+    "projectName": "ObservableIssue",
+    "projectPath": "/home/calin/Playground/ObservableIssue/ObservableIssue/ObservableIssue.csproj",
+    "outputPath": "/home/calin/Playground/ObservableIssue/ObservableIssue/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netstandard2.0"
+    ],
+    "frameworks": {
+      "netstandard2.0": {
+        "projectReferences": {}
+      }
+    }
+  },
+  "frameworks": {
+    "netstandard2.0": {
+      "dependencies": {
+        "NETStandard.Library": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Microsoft.AspNet.WebApi.Client": {
+          "target": "Package",
+          "version": "5.2.4-alpha1-170218"
+        },
+        "Microsoft.EntityFrameworkCore.InMemory": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Microsoft.EntityFrameworkCore.SqlServer": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Microsoft.Extensions.Logging.Abstractions": {
+          "target": "Package",
+          "version": "2.0.0"
+        },
+        "Newtonsoft.Json": {
+          "target": "Package",
+          "version": "10.0.3"
+        },
+        "StyleCop.Analyzers": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "1.1.0-beta004"
+        },
+        "System.Reactive": {
+          "target": "Package",
+          "version": "3.1.1"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

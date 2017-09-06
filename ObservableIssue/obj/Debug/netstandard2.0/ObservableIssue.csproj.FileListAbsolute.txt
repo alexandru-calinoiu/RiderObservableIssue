@@ -1,0 +1,8 @@
+/home/calin/Playground/ObservableIssue/ObservableIssue/bin/Debug/netstandard2.0/ObservableIssue.deps.json
+/home/calin/Playground/ObservableIssue/ObservableIssue/bin/Debug/netstandard2.0/ObservableIssue.dll
+/home/calin/Playground/ObservableIssue/ObservableIssue/bin/Debug/netstandard2.0/ObservableIssue.pdb
+/home/calin/Playground/ObservableIssue/ObservableIssue/obj/Debug/netstandard2.0/ObservableIssue.csproj.CoreCompileInputs.cache
+/home/calin/Playground/ObservableIssue/ObservableIssue/obj/Debug/netstandard2.0/ObservableIssue.AssemblyInfoInputs.cache
+/home/calin/Playground/ObservableIssue/ObservableIssue/obj/Debug/netstandard2.0/ObservableIssue.AssemblyInfo.cs
+/home/calin/Playground/ObservableIssue/ObservableIssue/obj/Debug/netstandard2.0/ObservableIssue.dll
+/home/calin/Playground/ObservableIssue/ObservableIssue/obj/Debug/netstandard2.0/ObservableIssue.pdb

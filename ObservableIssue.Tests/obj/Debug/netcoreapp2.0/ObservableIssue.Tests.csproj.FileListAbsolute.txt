@@ -1,0 +1,13 @@
+/home/calin/Playground/ObservableIssue/ObservableIssue.Tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/calin/Playground/ObservableIssue/ObservableIssue.Tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/home/calin/Playground/ObservableIssue/ObservableIssue.Tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/home/calin/Playground/ObservableIssue/ObservableIssue.Tests/bin/Debug/netcoreapp2.0/ObservableIssue.Tests.deps.json
+/home/calin/Playground/ObservableIssue/ObservableIssue.Tests/bin/Debug/netcoreapp2.0/ObservableIssue.Tests.runtimeconfig.json
+/home/calin/Playground/ObservableIssue/ObservableIssue.Tests/bin/Debug/netcoreapp2.0/ObservableIssue.Tests.runtimeconfig.dev.json
+/home/calin/Playground/ObservableIssue/ObservableIssue.Tests/bin/Debug/netcoreapp2.0/ObservableIssue.Tests.dll
+/home/calin/Playground/ObservableIssue/ObservableIssue.Tests/bin/Debug/netcoreapp2.0/ObservableIssue.Tests.pdb
+/home/calin/Playground/ObservableIssue/ObservableIssue.Tests/obj/Debug/netcoreapp2.0/ObservableIssue.Tests.csproj.CoreCompileInputs.cache
+/home/calin/Playground/ObservableIssue/ObservableIssue.Tests/obj/Debug/netcoreapp2.0/ObservableIssue.Tests.AssemblyInfoInputs.cache
+/home/calin/Playground/ObservableIssue/ObservableIssue.Tests/obj/Debug/netcoreapp2.0/ObservableIssue.Tests.AssemblyInfo.cs
+/home/calin/Playground/ObservableIssue/ObservableIssue.Tests/obj/Debug/netcoreapp2.0/ObservableIssue.Tests.dll
+/home/calin/Playground/ObservableIssue/ObservableIssue.Tests/obj/Debug/netcoreapp2.0/ObservableIssue.Tests.pdb
